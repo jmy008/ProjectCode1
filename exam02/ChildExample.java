@@ -11,6 +11,7 @@ public class ChildExample {
 		parent.method2();
 		//parent.method3();
 
+		System.out.println("github 수정중");
 	}
 
 }
